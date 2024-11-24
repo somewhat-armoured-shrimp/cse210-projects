@@ -7,7 +7,7 @@ public class Word
     {
         _isHidden = true;
     }
-    public void Show()
+    public void Show() // HAHA USELESS
     {
         _isHidden = false;
     }
